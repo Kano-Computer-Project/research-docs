@@ -1,3 +1,5 @@
 
 
 Found out that Raspbery Pi 4 uses 3A of current at 5V
+
+Found the formula as Q = Current x Time
